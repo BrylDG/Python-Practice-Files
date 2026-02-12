@@ -14,6 +14,6 @@ def sortCounter(a):
 
     output = "".join(temp_list)
 
-    print(output)
+    print(output)   
 
 sortCounter(a)
